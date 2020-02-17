@@ -65,16 +65,21 @@ hr {
 
 ul {
   color: #777777;
-  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Shadows Into Light', cursive;
   font-weight:bold;   
-  font-size: larger;
+  font-size: 150%;
 }
 
 .contact-link {
-  color: #777777;
-  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-  font-weight:bold; 
-  font-size: larger;
+  color: cadetblue;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 100%;
+}
+
+.contact-link:hover {
+  color: lightblue;
+  background-color: lightslategray;
+
 }
 
   #footer {
