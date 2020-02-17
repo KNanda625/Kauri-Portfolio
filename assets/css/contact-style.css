@@ -7,6 +7,7 @@ body {
 }
 
 
+
 /* Navigation */
 a {
   color:#777777;
@@ -57,14 +58,6 @@ hr {
   border: 0.5px solid #777777;
 }
 
-/* .container {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-  margin-left: auto;
-  margin-right: auto;
-} */
-
 ul {
   color: #777777;
   font-family: 'Shadows Into Light', cursive;
@@ -83,6 +76,8 @@ ul {
   background-color: lightslategray;
 
 }
+
+
 
   #footer {
     clear: both;
