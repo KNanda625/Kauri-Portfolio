@@ -7,7 +7,7 @@ This is an updated online portfolio featuring functional applications and contac
 
 Clone repository to local computer.
 
-https://github.com/KNanda625/Kauri-Portfolio.git
+	git clone https://github.com/KNanda625/Kauri-Portfolio.git
 
 
 ### Prerequisites
