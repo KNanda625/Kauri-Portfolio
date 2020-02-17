@@ -40,7 +40,7 @@ font-weight:bold;
 .container-fluid {
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 5%;
+  margin-bottom: 15%;
   padding: 2%;
 }
 
@@ -62,7 +62,7 @@ ul {
   color: #777777;
   font-family: 'Shadows Into Light', cursive;
   font-weight:bold;   
-  font-size: 150%;
+  font-size: 175%;
 }
 
 .contact-link {
