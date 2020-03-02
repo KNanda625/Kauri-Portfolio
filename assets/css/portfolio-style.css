@@ -47,8 +47,8 @@ font-weight:bold;
   padding: 2%;
 }
 
-.card-title {
-  color: cadetblue;
+h3 {
+  color: #006699;
   font-family: 'Shadows Into Light', cursive;
   font-weight:bold;
   font-size: x-large;
@@ -71,11 +71,11 @@ font-weight:bold;
   background-color: lightslategray;
 }
 
-img {
+/* img {
   border: 1px solid #777777;
   width: auto;
   height: 80%;
-}
+} */
 
 
 
